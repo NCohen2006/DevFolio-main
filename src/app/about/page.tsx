@@ -44,7 +44,7 @@ const About: NextPage = () => {
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Phone : <span>+1 000-000-0000</span>
+                        Phone : <span>+1 (678) 702-0244</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
